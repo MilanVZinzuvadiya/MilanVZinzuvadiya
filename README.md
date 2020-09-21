@@ -6,8 +6,8 @@ Python is my primary language to code. Apart from python, I code in C/C++ and JA
 
 Currently, I am doing Research in Reinforcement Learning. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe.
 
-
-[![twitter](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/twitter.ico)](https://twitter.com/MilanZinzuvadiy) [![linkedin](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/linkedin.png)](https://www.linkedin.com/in/milanzinzuvadiya/)
+### Connect with me:
+[![twitter](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/twitter.ico)](https://twitter.com/MilanZinzuvadiy) [![linkedin](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/linkedin.png)](https://www.linkedin.com/in/milanzinzuvadiya/) [![pinterest](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/pinterest.ico)](https://in.pinterest.com/milanzinzuvadiy/)
 
 
 <!--

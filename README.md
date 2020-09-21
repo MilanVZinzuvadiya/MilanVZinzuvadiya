@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I am highly interested in crafting ingenious algorithms. My Focus is to create flexible code like "swiss knife" which can address array of problems and can be modified with ease.
 

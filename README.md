@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I am highly interested in crafting ingenious algorithms. My Focus is to create flexible code like "swiss knife" which can address array of problems and can be modified with ease.
+I am highly interested in crafting ingenious **Algorithms**. My Focus is to create flexible code like "swiss knife" which can address array of problems and can be modified with ease.
 
-Python is my primary language to code. Apart from python, I code in C/C++ and JAVA.
+**Python** is my primary language to code. Apart from Python :snake: , I code in **C/C++** and :coffee:**JAVA**.
 
-Currently, I am doing Research in Reinforcement Learning. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe.
+I am curious:thought_balloon: about **Data** and its tremdous use cases. Field of **Artificial Intelligence** amazes:open_mouth: me. Currently, I am doing **Research in Reinforcement Learning**- the paradigm of **Machine Learning**. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe :milky_way: from Big Bang to Black holes.
 
-### Connect with me:
+### Lets get connected 💬:
 [![twitter](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/twitter.ico)](https://twitter.com/MilanZinzuvadiy) [![linkedin](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/linkedin.png)](https://www.linkedin.com/in/milanzinzuvadiya/) [![pinterest](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/pinterest.ico)](https://in.pinterest.com/milanzinzuvadiy/)
 
 

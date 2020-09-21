@@ -4,7 +4,7 @@ I am highly interested in crafting ingenious algorithms. My Focus is to create f
 "swiss knife" which can address array of problems and can be modified with ease.
 Python is my primary language to code. Apart from python, I code in C/C++ and JAVA.
 Currently, I am doing Research in Reinforcement Learning.
-Apart from this, I love solving puzzles. 
+Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe.
 <!--
 **MilanVZinzuvadiya/MilanVZinzuvadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@ Python is my primary language to code. Apart from python, I code in C/C++ and JA
 
 Currently, I am doing Research in Reinforcement Learning. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe.
 
-![https://twitter.com/MilanZinzuvadiy]()
+![https://twitter.com/MilanZinzuvadiy](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/twitter.png)
 <!--
 **MilanVZinzuvadiya/MilanVZinzuvadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

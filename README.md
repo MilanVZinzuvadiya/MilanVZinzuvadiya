@@ -4,7 +4,7 @@ I am highly interested in crafting ingenious **Algorithms**:gem:. My Focus is to
 
 **Python** is my primary language to code. Apart from Python :snake: , I code in **C/C++** and :coffee:**JAVA**.
 
-I am curious:thought_balloon: about **Data** and its tremendous use cases. Field of **Artificial Intelligence** amazes:open_mouth: me. Currently, I am doing **Research in Reinforcement Learning**- the paradigm of **Machine Learning**. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe :milky_way: from Big Bang to Black holes.
+I am curious:thought_balloon: about **Data** and its tremendous use cases. Field of **Artificial Intelligence** amazes:open_mouth: me. Currently, I am doing **Research in Reinforcement Learning**- the paradigm of **Machine Learning**. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe :milky_way: from Big Bang to Black holes. :telescope:
 
 ### Lets get connected 💬:
 [![twitter](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/twitter.ico)](https://twitter.com/MilanZinzuvadiy)        [![linkedin](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/linkedin.png)](https://www.linkedin.com/in/milanzinzuvadiya/)        [![pinterest](https://github.com/MilanVZinzuvadiya/MilanVZinzuvadiya/blob/master/pinterest.ico)](https://in.pinterest.com/milanzinzuvadiy/)

@@ -5,6 +5,8 @@ I am highly interested in crafting ingenious algorithms. My Focus is to create f
 Python is my primary language to code. Apart from python, I code in C/C++ and JAVA.
 
 Currently, I am doing Research in Reinforcement Learning. Apart from this, I love solving puzzles and I am always ready to discuss mysteries of Universe.
+
+![https://twitter.com/MilanZinzuvadiy]()
 <!--
 **MilanVZinzuvadiya/MilanVZinzuvadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

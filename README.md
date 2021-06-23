@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am highly interested in crafting ingenious **Algorithms**:gem:. My Focus is to create flexible code like "swiss knife" which can address array of problems and can be modified with ease.
+I am highly interested in exciting **Machine Learning** crafting ingenious **Algorithms**:gem:. My Focus is to create flexible code like "swiss knife" which can address array of problems and can be modified with ease.
 
 **Python** is my primary language to code. Apart from Python :snake: , I code in **C/C++** and :coffee:**JAVA**.
 
